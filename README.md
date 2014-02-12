@@ -1,2 +1,2 @@
-TiddlyWiki-Plugins
+TiddlyWiki Plugins
 ==================
